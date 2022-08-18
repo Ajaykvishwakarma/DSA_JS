@@ -1,5 +1,5 @@
 var str1 = ['a','b','c','d'];
-var str2 = ['c','e','d','b'];
+var str2 = ['c','a','d','b'];
 console.log(anagram(str1, str2))
 function anagram(str1, str2) {
 
