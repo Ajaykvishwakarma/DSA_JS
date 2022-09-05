@@ -7,4 +7,4 @@ function factorial(N) {
     return (N * factorial(N - 1))
 }
 
-console.log(factorial(5))
+console.log(factorial(5));

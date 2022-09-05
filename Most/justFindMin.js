@@ -40,7 +40,7 @@ function runProgram(input) {
 
 
 
-if (process.env.USERNAME === "AJAY") {
+if (process.env.USERNAME === "ACER") {
 	runProgram(`11
     PUSH 5
     PUSH 7
